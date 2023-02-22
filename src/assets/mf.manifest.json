@@ -1,0 +1,4 @@
+{
+	"membership": "http://localhost:4201/remoteEntry.js",
+  "treasury": "http://localhost:4202/remoteEntry.js"
+}
